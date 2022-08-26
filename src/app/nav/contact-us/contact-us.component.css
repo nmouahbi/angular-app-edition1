@@ -17,3 +17,26 @@
    box-shadow: 10px 10px 5px #888888;
     border-radius: 50px;
   }
+  nav{
+    background: rgb(63,94,251);
+    background: linear-gradient(309deg, rgba(63,94,251,1) 0%, rgba(67,136,252,1) 53%, rgba(70,174,252,1) 100%);
+    height: fit-content;
+
+    padding: 15px;
+    box-shadow: 50% 50% 50px 50px rgba(0,0,0,0.75);
+    
+
+  }
+  li {
+    list-style-type: none;
+    
+    border-radius: 45px;
+    margin: 5px;
+    width: 150px;
+    height: fit-content;
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.75);
+    background: white;
+    text-align: center;
+  color: black;
+  font-weight: bold;
+  }
